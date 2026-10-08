@@ -1,0 +1,53 @@
+body{
+  background-color: black;
+}
+
+button{
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+}
+
+button{
+  background-color:#333333;
+  color: white;
+  border: none;
+  font-size: 26px;
+}
+
+
+.clear-button{
+  width: auto;
+  padding: 10px 20px;
+  border-radius: 10px;
+}
+
+
+.js-calculation{
+color: white;
+font-size: 40px;
+background-color: #333333;
+width: 250px;
+padding: 10px;
+
+}
+
+
+.operator-button{
+  background-color: orange;
+}
+
+button{
+  margin-right: 5px;
+  margin-bottom: 5px;
+}
+
+.js-calculation{
+  font-size: 40px;
+ 
+}
+
+.button{
+  width: 60px;
+  height: 60px;
+}
